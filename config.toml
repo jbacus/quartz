@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://garden.bacus.org/quartz/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-88JZT5L501"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
